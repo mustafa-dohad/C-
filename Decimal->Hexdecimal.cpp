@@ -20,4 +20,5 @@ int main(){
     int n;
     cin>>n;
     cout<<n<<" in decimal = "<<Hexa(n);
+    return 0;
 }
