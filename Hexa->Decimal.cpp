@@ -1,5 +1,5 @@
 /*
-   convert user given octal to decimal
+   convert user given hexadecimal to decimal
 */
 #include <iostream>
 #include <cmath>
@@ -12,7 +12,7 @@ int Convert(long long num)
     {
         r = num % 10;
         num = num / 10;
-        total += pow(8, i) * r;
+        total += pow(16, i) * r;
         i++;
     }
 
