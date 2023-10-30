@@ -1,0 +1,1 @@
+{"name":"Local: Decimal->Hexdecimal","url":"/Users/mustafamurtaza/Desktop/C++/Cpp/Decimal->Hexdecimal.cpp","tests":[{"id":1698674455604,"input":"15","output":"15 in decimal = F"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/mustafamurtaza/Desktop/C++/Cpp/Decimal->Hexdecimal.cpp","group":"local","local":true}
