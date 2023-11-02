@@ -1,4 +1,4 @@
-// add two user given binary numbers and print the ans //
+// add two user given binary numbers and print the answer //
 #include <iostream>
 using namespace std;
 
